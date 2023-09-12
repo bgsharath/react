@@ -22,3 +22,7 @@ CompChildClass.js:22 child render
 CompChildClass.js:19 child component did update
 HelloClass.js:22 HelloClass render
 HelloClass.js:19 HelloClass component did update
+
+
+run 
+npx parcel index.html
